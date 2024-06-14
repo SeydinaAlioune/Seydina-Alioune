@@ -1,0 +1,11 @@
+<resources>
+    <color name="red">#FF0000</color>
+    <color name="blue">#0000FF</color>
+    <color name="brown">#8B4513</color>
+    <color name="green">#008000</color>
+    <!-- Ajoutez ici vos autres couleurs personnalisées -->
+    <color name="customColor">#FFA500</color>
+    <color name="gray">#808080</color>
+
+    <color name="black">#000000</color> <!-- Assurez-vous que cette ligne est à l'intérieur de la balise <resources> correctement -->
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ShortNotes</string>
+    <string name="add_note">Ajouter une note</string>
+    <string name="edit">Modifier</string>
+    <string-array name="categories_array">
+        <item>All</item>
+        <item>To Do</item>
+        <item>In Progress</item>
+        <item>Done</item>
+        <item>Bug</item>
+    </string-array>
+</resources>
